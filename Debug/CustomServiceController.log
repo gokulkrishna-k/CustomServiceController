@@ -1,0 +1,8 @@
+﻿  CustomServiceController.cpp
+D:\CustomServiceController\CustomServiceController.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\CustomServiceController\CustomServiceController.cpp(15,38): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+  ServiceController.cpp
+D:\CustomServiceController\ServiceController.cpp(88,8): warning C4101: 'dwBytesNeeded': unreferenced local variable
+  Generating Code...
+D:\CustomServiceController\ServiceController.cpp(28): warning C4715: 'ServiceController::createSvc': not all control paths return a value
+  CustomServiceController.vcxproj -> D:\CustomServiceController\Debug\CustomServiceController.exe
